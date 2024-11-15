@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class happypawpetstoreAdminConfig(AppConfig):
+class happypawpetstoreClientConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'happypawpetstore_Admin'
+    name = 'happypawpetstore_Client'
